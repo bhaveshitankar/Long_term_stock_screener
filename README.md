@@ -6,7 +6,7 @@ Run extract_indicators.py to get the bse, nse, sp500. investment indicators.
 
 1] clone the repo & open command where extract_indicators.py is present.
 
-2] Run "pip install pandas, yahoo_fin, pandas_datareader, requests, urllib3, contextlib, warnings"
+2] Run "pip install pandas yahoo_fin pandas_datareader requests urllib3 contextlib warnings"
 
 # outpu:
 
